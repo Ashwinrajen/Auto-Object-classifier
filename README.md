@@ -22,4 +22,6 @@ Industries are using this technique to separate the defective and non-defective 
 
 The challenges which I faced  is,
 * Making it as a Real time application
-* Integrating computer vision and actuation.
+* Integrating computer vision and actuation
+
+## This video shows the [Final Robot](https://www.youtube.com/watch?v=G70JtGIui3U).
